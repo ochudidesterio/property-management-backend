@@ -1,6 +1,5 @@
 # Property Management System Backend
-This is a mock up backend for property management system that will enable agents on the client side to perform the tasks below. This backend is a monolithic application that uses
-the spring boot framework and Java Persistence API. The Entity Relationship mappings are clearly illustrated as follows:
+This is a mock up backend for property management system that will enable agents on the client side to perform the tasks below.  The Entity Relationship mappings used in this project are clearly illustrated as follows:
 
 ## Relationships
 ### @OneToOne
