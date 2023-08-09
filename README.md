@@ -7,4 +7,4 @@ the spring boot framework and Java Persistence API.
 - Add House units of different sizes under different properties which includes the rent and deposit amount.
 - Add Tenant and assign them to a vacant house.
 - Get Tenants profile data.
-- Get report list of all properties, clients and tenants.
+- Get report list of all properties, clients and tenants
